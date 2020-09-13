@@ -4,7 +4,7 @@
 - I'm a father, hustband, developer, engineer, and a life long learner.
 - I love tech, programming, and automation of any type.
 - Currently my passion is to expand and perfect my DevOps skills.
-- In my off-screen time I like to play my guitar, photography, play a little pick up soccer, stay in shape, and spend time with my family.
+- In my off-screen time I like to play my guitar, photography, play a little pick up soccer, home improvement, and spend time with my family.
 
 
 ### Connect with me:
