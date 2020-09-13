@@ -1,27 +1,11 @@
 ## Hi There, I'm Ismet 👋
 
+### Something about me:
+- I'm a father, hustband, developer, engineer, and a life long learner.
+- I love tech, programming, and automation of any type.
+- Currently my passion is to expand and perfect my DevOps skills.
+- In my off-screen time I like to play my guitar, photography, play a little pick up soccer, stay in shape, and spend time with my family.
 
-
-
-
-
-
-<!--
-**ismet55555/ismet55555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on evolving my DevOps skills
-- 🌱 I’m currently learning just about everything!
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<br />
 
 ### Connect with me:
 
@@ -32,6 +16,11 @@ Here are some ideas to get you started:
 
 <!-- GitHub Stats -->
 <img align="left" alt="ismet55555's Github Statistics" src="https://github-readme-stats-phi-wheat.vercel.app/api?username=ismet55555&show_icons=true&hide_border=true" />
+
+<br />
+
+<!-- Top Languages Used -->
+<!-- [![Top Langs](https://github-readme-stats-phi-wheat.vercel.app/api/top-langs/?username=ismet55555)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- Variables -->
 [website]: https://ismet55555.github.io/
