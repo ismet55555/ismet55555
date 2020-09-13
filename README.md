@@ -1,12 +1,18 @@
-### Hi there 👋
+## Hi There, I'm Ismet 👋
+
+
+
+
+
+
 
 <!--
 **ismet55555/ismet55555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on evolving my DevOps skills
+- 🌱 I’m currently learning just about everything!
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +20,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br />
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+<!-- GitHub Stats -->
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="ismet55555's Github Stats" src="https://github-readme-stats-phi-wheat.vercel.app
+/api?username=ismet55555&show_icons=true&hide_border=true" />
+</details>
+
+
+<!-- Variables -->
+[website]: https://ismet55555.github.io/
+[linkedin]: https://www.linkedin.com/in/ismet-hand%C5%BEi%C4%87-phd-b6b00033/
