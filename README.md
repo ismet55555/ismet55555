@@ -1,7 +1,7 @@
 ## Hi There, I'm Ismet 👋
 
 ### Something about me:
-- I'm a father, hustband, developer, engineer, and a life long learner.
+- I'm a father, husband, developer, engineer, and a life long learner.
 - I love tech, programming, and automation of any type.
 - My daily driver and first choice for personal work is linux (sometimes Ubuntu sometimes CentOS) 
 - Currently my passion is to expand and perfect my DevOps skills.
