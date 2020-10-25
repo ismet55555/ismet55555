@@ -24,5 +24,5 @@
 <!-- [![Top Langs](https://github-readme-stats-phi-wheat.vercel.app/api/top-langs/?username=ismet55555)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- Variables -->
-[website]: https://ismet55555.github.io/
+[website]: https://www.IsmetHandzic.com/
 [linkedin]: https://www.linkedin.com/in/ismet-hand%C5%BEi%C4%87-phd-b6b00033/
