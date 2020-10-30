@@ -20,7 +20,7 @@
 
 <br />
 
-[Check out my Github gists](github-gists), maybe something useful there, maybe not.
+[Check out my Github gists](https://gist.github.com/ismet55555), maybe something useful there, maybe not.
 
 
 <!-- Top Languages Used -->
@@ -29,4 +29,3 @@
 <!-- Variables -->
 [website]: https://www.IsmetHandzic.com/
 [linkedin]: https://www.linkedin.com/in/ismet-hand%C5%BEi%C4%87-phd-b6b00033/
-[github-gists]: https://gist.github.com/ismet55555
