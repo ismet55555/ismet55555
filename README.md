@@ -13,6 +13,10 @@
 - [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] - Website
 - [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] - LinkedIn Profile
 
+[Check out my Github gists](https://gist.github.com/ismet55555), maybe something useful there, maybe not.
+
+[Check out my various configuration dotfiles](https://github.com/ismet55555/dotfiles), make sure to judge harshly :-)
+
 <br />
 
 <!-- GitHub Stats -->
@@ -20,7 +24,7 @@
 
 <br />
 
-[Check out my Github gists](https://gist.github.com/ismet55555), maybe something useful there, maybe not.
+
 
 
 <!-- Top Languages Used -->
