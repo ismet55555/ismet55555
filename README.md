@@ -5,7 +5,7 @@
 - I love tech, programming, automation of any type, and just creating things.
 - My daily driver and first choice for personal work is linux (sometimes Ubuntu sometimes CentOS) 
 - Currently my passion is to expand and perfect my DevOps skills.
-- If you are up for it, I'd love some eyes on [yo-jenkins](https://github.com/ismet55555/yo-jenkins), ... and if you contribute, even better!
+- If you are up for it, I'd love some eyes on [yojenkins](https://github.com/ismet55555/yojenkins), ... and if you contribute, even better!
 - In my off-screen time I like to play my guitar, photography, play a little pick up soccer, home improvement, and spend time with my family.
 
 
